@@ -1,5 +1,5 @@
 title = "Legendary Coder"
-baseURL = 'https://hba.sid.one/'
+baseURL = 'https://legendarycoder.com/'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
@@ -74,7 +74,7 @@ disqusShortname = ''
   # By default (or if nothing is specified), summary is used.
 
 [params.author]
-  avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
+  avatar = "avatar.png" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Legendary Coder"
   name = "Dylan Legendre"

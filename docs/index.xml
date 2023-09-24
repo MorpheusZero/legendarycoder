@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Legendary Coder</title>
-    <link>https://hba.sid.one/</link>
+    <link>https://legendarycoder.com/</link>
     <description>Recent content on Legendary Coder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hba.sid.one/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://legendarycoder.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome To Legendary Coder</title>
-      <link>https://hba.sid.one/posts/2023-09-23-welcome/</link>
+      <link>https://legendarycoder.com/posts/2023-09-23-welcome/</link>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hba.sid.one/posts/2023-09-23-welcome/</guid>
+      <guid>https://legendarycoder.com/posts/2023-09-23-welcome/</guid>
       
       <description>Hello and Welcome! Welcome to my new blog! I&amp;rsquo;m planning to post some cool things here at some point. But for now, this is just a placeholder while I finish setting up the hosting! In the mean time, feel free to follow me on Social Media!
 https://www.instagram.com/morpheuszer0/ https://twitter.com/Dylan_Legendre </description>
@@ -21,14 +21,13 @@ https://www.instagram.com/morpheuszer0/ https://twitter.com/Dylan_Legendre </des
     
     <item>
       <title>About</title>
-      <link>https://hba.sid.one/pages/about/</link>
+      <link>https://legendarycoder.com/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hba.sid.one/pages/about/</guid>
+      <guid>https://legendarycoder.com/pages/about/</guid>
       
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
+      <description>Am I really Legendary? Probably not&amp;ndash;but my name is Dylan Legendre. You can learn more about me and my general skillsets on my personal portfolio page below.
+Learn more and contribute on Dylan Legendre.</description>
       
     </item>
     
